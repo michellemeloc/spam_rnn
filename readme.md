@@ -10,11 +10,5 @@ Explorar conteúdos da disciplina D3APL
 ## Arquivos
 
 Os seguintes arquivos estão incluídos neste repositório:
-- `Procfile`: arquivo para implantar a solução no Heroku.
-- `app.py`: script que executa o aplicativo da web
 - `data/`: diretório contendo o conjunto de dados usado para treinar o modelo.
-- `logo.png`: logotipo para o aplicativo da web.
-- `model.pkl`: modelo treinado usado para classificação.
-- `nltk.txt`: arquivo contendo as dependências necessárias para o processamento NLP.
 - `readme.md`: documentação do projeto.
-- `requirements.txt`: lista de dependências do Python necessárias para
